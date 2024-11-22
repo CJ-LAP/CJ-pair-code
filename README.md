@@ -1,4 +1,4 @@
-# Malvin-Session-Generator
+# CJ-Session-Generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝malvin.session★⃝•;QR+WEB+PAIR+CODE+FOR+BOT;+WITH+WHISKEYSOCKETS/BAILEYS." alt="Typing SVG" />
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/kingmalvn">
+   <a href="https://github.com/CJ-LAP">
     <img src="https://telegra.ph/file/dc73e16b9988c7c56b56f.jpg" width="500">
      
 </a>
@@ -20,14 +20,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+✨,fork+my+repo+if+you+like+this+session)](https://git.io/typing-svg)
     <br>
-<a href="https://github.com/CJ-LAP/CJ-pair-code"><img title="WEB" src="https://img.shields.io/badge/FORK Malvin Session-QR?color=red&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/CJ-LAP/CJ-pair-code"><img title="WEB" src="https://img.shields.io/badge/FORK CJ Session-QR?color=red&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Deploy+to+heroku...)](https://git.io/typing-svg)
 
     
-<a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/malvin.session' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/CJ-LAP/CJ-pair-code' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+How+to+Deploy+on+Render..👇👇.)](https://git.io/typing-svg)
 
@@ -41,7 +41,7 @@ Now Deploy
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Deploy+on+Render+now..👇👇.)](https://git.io/typing-svg)
 
  
-<a href='https://dashboard.render.com/new?template=https://github.com/kingmalvn/malvin.session' target="_white"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-white?style=for-the-badge&logo=Render&logoColor=black'/>
+<a href='https://dashboard.render.com/new?template=https://github.com/CJ-LAP/CJ-pair-code' target="_white"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-white?style=for-the-badge&logo=Render&logoColor=black'/>
 
 
 
